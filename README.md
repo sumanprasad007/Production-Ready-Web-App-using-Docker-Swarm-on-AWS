@@ -108,11 +108,11 @@ Congratulations! 🎉 You've successfully deployed a production-ready web app us
 
 ## 🔍 Checkout GitHub Repository for projects:
 
-🔗 github.com/sumanprasad007
+🔗 https://github.com/sumanprasad007
 
 ## 🔍 Check out my YouTube channel - Prasad Suman Mohan:
 
-🔗 youtube.com/@sumanprasad007
+🔗 https://youtube.com/@sumanprasad007
 
 
 
